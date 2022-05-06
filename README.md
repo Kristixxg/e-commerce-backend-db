@@ -24,6 +24,10 @@ You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Seq
 
 <img src="assets/seeds-db.gif" width="900">
 
+- Use environment variable and run on localhost
+
+<img src="assets/processEnv.png" width="900">
+
 - GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
 <img src="assets/Get-categories_products_tags.gif" width="900">
