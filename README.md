@@ -68,6 +68,17 @@ You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Seq
 
 <img src="assets/DELETE-tag.gif" width="900">
 
+
+## Code Snippets 
+
+- Associations
+
+<img src="assets/association.png" width="700">
+
+- GET routes for products
+
+<img src="assets/productGet.png" width="700">
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
